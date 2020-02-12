@@ -1,0 +1,7 @@
+<suite thread-count="1" verbose="1" name="Calculator Suite" annotations="JDK" parallel="tests">
+    <test name="calculator">
+        <classes>
+            <class name="CalculatorTests"/>
+        </classes>
+    </test>
+</suite>
